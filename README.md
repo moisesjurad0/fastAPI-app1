@@ -12,3 +12,8 @@ pip install -r requirements.txt
 # trying main.py
 uvicorn main:app --reload
 ```
+
+## more from
+
+<https://fastapi.tiangolo.com/>
+
